@@ -1,0 +1,3 @@
+name: CaptainDory-t1
+main: com.tenjava.entries.CaptainDory.t1.TenJava
+version: '${project.version}'
